@@ -31,7 +31,7 @@ app.config['UPLOAD_PATH']        = './static/images/uploads/'
 model = None
 
 NUM_CLASSES = 4
-grape_classes = ["Leaf Blight", "Healthy", "ESCA", "Black Rot"]
+grape_classes = ["Black Rot", "ESCA", "Healthy", "Leaf Blight"]
 
 # =[Routing]=====================================
 
